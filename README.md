@@ -45,3 +45,6 @@ Key points to keep in mind when data wrangling for this project:
 -  Cleaning includes merging individual pieces of data according to the rules of tidy data.
 -  The fact that the rating numerators are greater than the denominators does not need to be cleaned. This unique rating system is a big part of the popularity of WeRateDogs.
 -  We do not need to gather the tweets beyond August 1st, 2017. We can, but note that we won't be able to gather the image predictions for these tweets since we don't have access to the algorithm used.
+
+### Please Note:
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
